@@ -1,0 +1,6 @@
+NEW  app/Console/Commands/SendNewsletterConfirmations.php
+NEW  app/Http/Controllers/Api/V1/Misbaha/MisbahaRoomController.php
+NEW  app/Http/Controllers/Api/V1/Newsletter/NewsletterPublicController.php
+NEW  app/Models/MisbahaRoom.php
+NEW  database/migrations/2026_11_02_120000_create_misbaha_rooms_table.php
+NEW  routes/api-2026-11.php
